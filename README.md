@@ -1,5 +1,12 @@
 Hello. My name is Carlos and I am a brasilian software engineer student. 👋
+<head>
+  .linguagens img {
+  max-width: 100%;
+  height: auto;
+}
 
+  </head>
+<body>
 <div>
   <a href="https://github.com/carlosyamanaka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosyamanaka&layout=compact&langs_count=7&theme=dracula"/>
@@ -12,7 +19,7 @@ Hello. My name is Carlos and I am a brasilian software engineer student. 👋
   <a href="https://www.linkedin.com/in/carlos-yamanaka-59b3b1237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
+<div class="linguagens">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -22,3 +29,4 @@ Hello. My name is Carlos and I am a brasilian software engineer student. 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           
 </div>
+  </body>
