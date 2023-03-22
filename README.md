@@ -1,16 +1,10 @@
 Hello. My name is Carlos and I am a brasilian software engineer student. 👋
-<head>
-  .linguagens img {
-  max-width: 100%;
-  height: auto;
-}
 
-  </head>
 <body>
 <div>
   <a href="https://github.com/carlosyamanaka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosyamanaka&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosyamanaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosyamanaka&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=carlosyamanaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 <div>
@@ -20,7 +14,7 @@ Hello. My name is Carlos and I am a brasilian software engineer student. 👋
 </div>
 
 <div class="linguagens">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "50" width = "50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
