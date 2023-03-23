@@ -1,8 +1,5 @@
 
 
-
-Hello. My name is Carlos Yamanaka and I am a Software engineer student 👋
-
 <h3> :rocket: &nbsp;My Skills </h3>
 
 **Technologies**
