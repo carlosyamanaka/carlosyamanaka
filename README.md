@@ -1,45 +1,53 @@
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
-<h3> :rocket: &nbsp;My Skills </h3>
+<p align="left">My name is Carlos and I'm a Dev, from Brazil</p>
 
-**Technologies**
+###
 
-  [![Flutter](https://img.shields.io/badge/Flutter-333333?logo=flutter&logoColor=fff)](#)
+<h2 align="left">About me</h2>
 
-  ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=blue)
-  [![Java](https://img.shields.io/badge/Java-333333.svg?logo=openjdk&logoColor=white)](#)
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-333333?logo=springboot&logoColor=fff)](#)
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  [![Next.js](https://img.shields.io/badge/Next.js-333333?logo=next.js&logoColor=white)](#)
-  [![NodeJS](https://img.shields.io/badge/Node.js-333333?logo=node.js&logoColor=white)](#)
-  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-  
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=blue)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
-  
+###
 
-  
-**DevOps**
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Flutter and Node<br>🎯 Goals: Travel to Canadá
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+###
 
-<br/>
+<h2 align="left">I use</h2>
 
-<a href="https://github.com/carlosyamanaka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosyamanaka&theme=dracula&show_icons=true" />
-</a>
+###
 
-<br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="sprint logo"  />
+</div>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+###
 
-[![Linkedin: Carlos Yamanaka](https://img.shields.io/badge/-Carlos_Yamanaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-yamanaka-59b3b1237/)](https://www.linkedin.com/in/carlos-yamanaka-59b3b1237/)
-[![Gmail Badge](https://img.shields.io/badge/-carlosyamanaka10@gmail.com-D3D3D3?style=flat-square&logo=Gmail&logoColor=ff0000&link=mailto:carlosyamanaka10@gmail.com)](mailto:carlosyamanaka10@gmail.com)
-[![GitHub carlosyamanaka]( https://img.shields.io/github/followers/carlosyamanaka?label=follow&style=social)](https://github.com/carlosyamanaka)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="sqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
