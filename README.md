@@ -15,7 +15,7 @@
 
 <p align="left">📚 Brazilian Develop</br>
 ✨ Creating bugs since 2021</br>
-⚡ Fun fact: I like RPG and have a discord guild server to play. You can enter to [![Discord](https://img.shields.io/badge/Discord-%23FF0000.svg?logo=Discord&logoColor=Purple)](discord.gg/projetoorion), where you can play Ordem Paranormal or check the community. 🎲🌟</p>
+⚡ Fun fact: I like RPGs and have a Discord server where we play. You can join us at https://discord.gg/projetoorion, where you can play Ordem Paranormal or hang out with the community. 🎲🌟</p>
 
 ### 🛠️ My Toolbox
 
